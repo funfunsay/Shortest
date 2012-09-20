@@ -1,7 +1,7 @@
 Shortest
 ========
 
-Shortest is an database interface to store and manipulate short message.
+Shortest is an database interface to store and manipulate short messages like tweets or weibo.
 
 
 
